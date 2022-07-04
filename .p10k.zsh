@@ -1,0 +1,1 @@
+/home/johnaiker/.p10k.zsh
