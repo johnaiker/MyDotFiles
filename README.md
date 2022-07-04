@@ -1,4 +1,4 @@
 # MyDotFiles
 
-###Archivos de configuracion
-utiles para terminal, picom, zsh y awesome
+### Archivos de configuracion
+Utiles para terminal, picom, zsh y awesome.
